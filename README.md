@@ -17,7 +17,7 @@ I am interested in data analysis and enjoy working with data to find useful insi
 - Data Visualization
 - Exploratory Data Analysis
 
-## My Project
+## projects
 
 ### 🍽️ Restaurant Data Analysis
 
